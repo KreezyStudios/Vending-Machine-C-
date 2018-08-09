@@ -1,0 +1,3 @@
+﻿  vendingMachine.cpp
+c:\users\kreez\documents\c++\vending machine\vending machine\vendingmachine.cpp(130): warning C4018: '<': signed/unsigned mismatch
+  Vending Machine.vcxproj -> C:\Users\kreez\Documents\C++\Vending Machine\Debug\Vending Machine.exe
